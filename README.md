@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Smart Brain](https://github.com/shradhaagarwal01/Smart-Brain)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shradhaagarwal01](https://github.com/shradhaagarwal01)
+- 👨‍💻 All of my projects are available [here](https://github.com/shradhaagarwal01?tab=repositories)
 
 - 💬 Ask me about **react, node and APIs**
 
