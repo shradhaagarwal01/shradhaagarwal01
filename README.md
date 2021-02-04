@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, node and APIs**
 
-- 📫 How to reach me **shradhaagarwal386@gmail.com**
+- 📫 Mail to me at **shradhaagarwal386@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ESbD1qGv6fHjgVMxIXDqp_8HPsWlS3Bd/view?usp=sharing)
 
