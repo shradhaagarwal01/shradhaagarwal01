@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shradhaagarwal01&label=Profile%20views&color=0e75b6&style=flat" alt="shradhaagarwal01" /> </p>
 
-<p align="left"> <a href="https://twitter.com/heyshradha" target="blank"><img src="https://img.shields.io/twitter/follow/heyshradha?logo=twitter&style=for-the-badge" alt="heyshradha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dilkipatang" target="blank"><img src="https://img.shields.io/twitter/follow/dilkipatang?logo=twitter&style=for-the-badge" alt="dilkipatang" /></a> </p>
 
 - 🔭 I’m currently working on [Data Structures and Algorithm](https://github.com/shradhaagarwal01/Data-Structures-and-Algorithm)
 
