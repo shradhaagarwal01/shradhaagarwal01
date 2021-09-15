@@ -31,3 +31,7 @@
 <a href="https://instagram.com/shradha.agarwal01" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="shradha.agarwal01" height="50" width="50" /></a>
 </p>
 <hr>
+
+<p align="center">
+  <image src="https://github.com/shradhaagarwal01/shradhaagarwal01/blob/output/github-contribution-grid-snake.gif" alt="snake" >
+    </p>
