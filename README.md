@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available [here](https://github.com/shradhaagarwal01?tab=repositories)
 
 - 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/150lOUI8J5UUG3P6AItzYMiDcti5h_K5V/view?usp=sharing))
-
+<br>
 <p>
 <a align= "center" href="https://github.com/shradhaagarwal01">
 <img alt= "stats card" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=shradhaagarwal01&theme=radical">
@@ -33,5 +33,5 @@
 <hr>
 
 <p align="center">
-  <image src="https://github.com/shradhaagarwal01/shradhaagarwal01/blob/output/github-contribution-grid-snake.gif" alt="snake" >
+  <image src="https://github.com/shradhaagarwal01/shradhaagarwal01/blob/output/github-contribution-grid-snake.svg" alt="snake" >
     </p>
