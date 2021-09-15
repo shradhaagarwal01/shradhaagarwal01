@@ -1,40 +1,33 @@
 <h1 align="center">Hi 👋🏻, I'm Shradha Agarwal</h1>
 <h3 align="center">A passionate full stack developer and Machine Learning enthusiast from India</h3>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shradhaagarwal01&label=Profile%20views&color=0e75b6&style=flat" alt="shradhaagarwal01" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dilkipatang" target="blank"><img src="https://img.shields.io/twitter/follow/dilkipatang?logo=twitter&style=for-the-badge" alt="dilkipatang" /></a> </p>
 
 - 🔭 I’m currently working on [Data Structures and Algorithm](https://github.com/shradhaagarwal01/Data-Structures-and-Algorithm)
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 🤝 I’m looking for help with [Smart Brain](https://github.com/shradhaagarwal01/Smart-Brain)
-
 - 👨‍💻 All of my projects are available [here](https://github.com/shradhaagarwal01?tab=repositories)
 
-- 💬 Ask me about **react, node and APIs**
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/150lOUI8J5UUG3P6AItzYMiDcti5h_K5V/view?usp=sharing))
 
-- 📫 Mail to me at **shradhaagarwal386@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-2DUHtTNeVvjHBetFnTeAbSDihCDJLp5/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/shradhaagarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shradhaagarwal" height="30" width="40" /></a>
-<a href="https://twitter.com/dilkipatang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dilkipatang" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shradhaagarwal01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shradhaagarwal01" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shradha01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shradha01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shradhaagarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shradhaagarwal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shradhaagarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="shradhaagarwal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shradhaagarwal/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="shradhaagarwal" height="30" width="40" /></a>
+<p>
+<a align= "center" href="https://github.com/shradhaagarwal01">
+<img alt= "stats card" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=shradhaagarwal01&theme=radical">
+<img align="right" height="360" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=shradhaagarwal01&count_private=true&theme=radical&show_icons=true" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://twitter.com/dilkipatang" target="blank"><img src="https://img.shields.io/twitter/follow/dilkipatang?logo=twitter&style=for-the-badge" alt="dilkipatang" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shradhaagarwal01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shradhaagarwal01" /></p>
+- 📫 How to reach me **shradhaagarwal386@gmail.com**
+<br><br>
+<hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shradhaagarwal01&show_icons=true&locale=en&theme=tokyonight" alt="shradhaagarwal01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shradhaagarwal01&theme=tokyonight" alt="shradhaagarwal01" /></p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/dilkipatang" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="dilkipatang" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shradhaagarwal01/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="shradha agarwal" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/shradha.agarwal01" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="shradha.agarwal01" height="50" width="50" /></a>
+</p>
+<hr>
