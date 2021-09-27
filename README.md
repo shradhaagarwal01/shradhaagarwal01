@@ -12,10 +12,10 @@
 <br>
 <p>
 <a align= "center" href="https://github.com/shradhaagarwal01">
-<img alt= "stats card" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=shradhaagarwal01&theme=radical">
+<img alt= "stats card" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=shradhaagarwal01&theme=jolly">
 <img align="right" height="360" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=shradhaagarwal01&count_private=true&theme=radical&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=shradhaagarwal01&count_private=true&theme=jolly&show_icons=true" />
 
 <p align="left"> <a href="https://twitter.com/dilkipatang" target="blank"><img src="https://img.shields.io/twitter/follow/dilkipatang?logo=twitter&style=for-the-badge" alt="dilkipatang" /></a> </p>
 
